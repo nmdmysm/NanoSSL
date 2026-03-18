@@ -1,0 +1,3 @@
+# Build artifacts
+tests/test_session
+src/*.o
